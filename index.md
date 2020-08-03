@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi there
 
 
-## Summary
+### Summary
 
 * Accomplished Full Stack Software Engineer with two years’ experience in `Java`
 * Expert knowledge in `Spring`, `Spring Boot`, `Spring Cloud Netflix`, `Microservices` and `RESTful API`
