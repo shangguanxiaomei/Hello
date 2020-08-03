@@ -1,8 +1,3 @@
-
-You can use the [editor on GitHub](https://github.com/shangguanxiaomei/homepage.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Welcome to Caleb Zhang's  HomePages
 
 * Accomplished Full Stack Software Engineer with two years’ experience in `Java`
@@ -19,3 +14,33 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <img markdown =1 src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200803%20Homepage/oracle-certified-professional-java-se-8-programmer.png" width = "50" height = "50" alt="图片名称" align=center /> [Oracle Database SQL Certified Associate  --  2019](https://www.youracclaim.com/badges/1e369a12-0a05-488e-8dc9-760b16efc364/public_url "Click to verify")
 
 <img markdown =1 src="https://github.com/shangguanxiaomei/Imageshare/raw/master/20200803%20Homepage/aws-certified-devops-engineer-professional.png" width = "50" height = "50" alt="图片名称" align=center /> [AWS Certified DevOps Engineer – Professional  --  2020](https://www.youracclaim.com/badges/5b80739a-134b-4b66-8aad-36b180406fe4/public_url "Click to verify")
+
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shangguanxiaomei/homepage.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
