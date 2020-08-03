@@ -1,6 +1,3 @@
-# Hi there
-
-
 ### Summary
 
 * Accomplished Full Stack Software Engineer with two years’ experience in `Java`
